@@ -1,4 +1,4 @@
-# ETL con Airflow y Docker
+# ETL con Airflow y Docker para el Bootcamp de Data Science DS102024
 
 Este repositorio contiene una implementación básica de un ETL (Extract, Transform, Load) utilizando Apache Airflow como orquestador, Docker para la contenerización y SQLAlchemy para interactuar con la base de datos. Está diseñado específicamente para estudiantes de un bootcamp de Data Engineering, con un enfoque en la simplicidad y facilidad de uso.
 
@@ -110,11 +110,6 @@ El repositorio contiene dos notebooks educativos:
 - **airflow_laboratorio_practico.ipynb**: Ofrece ejercicios prácticos para reforzar los conocimientos
 
 También se incluye un tutorial detallado (**TUTORIAL.md**) que explica paso a paso cómo funciona este ETL y cómo se integran las diferentes tecnologías.
-
-## Requisitos
-
-- Docker y Docker Compose
-- Conexión a Internet (para descargar imágenes Docker y, opcionalmente, consumir la API)
 
 ## Personalización
 
